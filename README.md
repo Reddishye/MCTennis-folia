@@ -1,5 +1,7 @@
 # MCTennis  
 
+TODO: Add Folia Support
+
 | branch | status                                                                                                                                 | download                                                                |
 |--------|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------| 
 | main   | [![Build Status](https://github.com/Shynixn/MCTennis/workflows/CI/badge.svg?branch=main)](https://github.com/Shynixn/MCTennis<br/>/actions) | [Download latest release](https://github.com/Shynixn/MCtennis/releases) |
